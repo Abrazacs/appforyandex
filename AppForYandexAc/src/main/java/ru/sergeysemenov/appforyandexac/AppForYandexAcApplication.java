@@ -1,0 +1,13 @@
+package ru.sergeysemenov.appforyandexac;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AppForYandexAcApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(AppForYandexAcApplication.class, args);
+    }
+
+}
